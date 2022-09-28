@@ -1,0 +1,76 @@
+[
+	{
+		"version": "1.0.1",
+		"files": {
+			"bot/login/login.js": "fix terminal freeze"
+		}
+	},
+	{
+		"version": "1.0.2",
+		"files": {
+			"bot/login/loadData.js": "fix terminal freeze"
+		}
+	},
+	{
+		"version": "1.0.3",
+		"files": {
+			"bot/handler/handlerEvents.js": "fix terminal freeze"
+		}
+	},
+	{
+		"version": "1.0.4",
+		"files": {
+			"bot/login/login.js": "fix bugs",
+			"scripts/cmds/badwords.js": "fix error `Cannot read properties of undefined (reading 'settings')`",
+			"scripts/cmds/loadconfig.js": "fix error `Cannot read properties of undefined (reading 'dirConfig')`",
+			"scripts/cmds/tik.js": "fix api"
+		}
+	},
+	{
+		"version": "1.0.5",
+		"files": {
+			"bot/login/login.js": "fix duplicate login"
+		}
+	},
+	{
+		"version": "1.0.6",
+		"files": {
+			"scripts/cmds/ytb.js": "fix error `AxiosError: unable to verify the first certificate`"
+		}
+	},
+	{
+		"version": "1.0.7",
+		"files": {
+			"scripts/cmds/videofb.js": "fix error Cannot download video"
+		}
+	},
+	{
+		"version": "1.0.8",
+		"files": {
+			"utils.js": "update system translate",
+			"scripts/cmds/adduser.js": "update system translate"
+		}
+	},
+	{
+		"version": "1.0.9",
+		"files": {
+			"scripts/cmds/tik.js": "add slide download feature (images)"
+		}
+	},
+	{
+		"version": "1.0.10",
+		"files": {
+			"bot/handler/handlerEvents.js": "",
+			"scripts/cmds/simsimi.js": "new command"
+		}
+	},
+	{
+		"version": "1.0.11",
+		"files": {
+			"utils.js": "",
+			"scripts/cmds/anime.js": "new command random anime image",
+			"scripts/cmds/avatar.js": "new command create avatar anime",
+			"scripts/cmds/simsimi.js": ""
+		}
+	}
+]
